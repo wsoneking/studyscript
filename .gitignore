@@ -1,0 +1,16 @@
+/target/*
+/target
+target/*
+target
+test-output
+test-output/*
+/test-output/*
+/test-output
+/bin/*
+/com/*
+
+*.classpath
+*.iml
+.idea/
+*.project
+/bin/
